@@ -1,5 +1,5 @@
 [workspace]
 
 members = [
- "zomes/sandbox/code"
+ "zomes/main/code"
 ]

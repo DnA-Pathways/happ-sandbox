@@ -14,6 +14,6 @@ const {
 
 const orchestrator = new Orchestrator();
 
-require("./scenario/sandbox")(orchestrator.registerScenario);
+require("./scenario/main")(orchestrator.registerScenario);
 
 orchestrator.run();
